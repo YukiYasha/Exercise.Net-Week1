@@ -1,0 +1,7 @@
+E:\Study\Study\HK8\Cong Nghe .NET\Thuc Hanh\Exercise.Net-Week1\Ex.Net-W1\Ex02\bin\Debug\Ex02.exe.config
+E:\Study\Study\HK8\Cong Nghe .NET\Thuc Hanh\Exercise.Net-Week1\Ex.Net-W1\Ex02\bin\Debug\Ex02.exe
+E:\Study\Study\HK8\Cong Nghe .NET\Thuc Hanh\Exercise.Net-Week1\Ex.Net-W1\Ex02\bin\Debug\Ex02.pdb
+E:\Study\Study\HK8\Cong Nghe .NET\Thuc Hanh\Exercise.Net-Week1\Ex.Net-W1\Ex02\obj\Debug\Ex02.csprojAssemblyReference.cache
+E:\Study\Study\HK8\Cong Nghe .NET\Thuc Hanh\Exercise.Net-Week1\Ex.Net-W1\Ex02\obj\Debug\Ex02.csproj.CoreCompileInputs.cache
+E:\Study\Study\HK8\Cong Nghe .NET\Thuc Hanh\Exercise.Net-Week1\Ex.Net-W1\Ex02\obj\Debug\Ex02.exe
+E:\Study\Study\HK8\Cong Nghe .NET\Thuc Hanh\Exercise.Net-Week1\Ex.Net-W1\Ex02\obj\Debug\Ex02.pdb

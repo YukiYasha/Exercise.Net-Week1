@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Threading;
 
 namespace Ex01
 {
@@ -18,8 +17,8 @@ namespace Ex01
 
             if (Thang <= 0 || Thang > 12)
             {
-                Console.WriteLine("\nNhap thang sai!!! Exit in 2s!");
-                Thread.Sleep(2000);
+                Console.WriteLine("\nNhap thang sai!!!");
+                Console.ReadKey();
                 return;
             }
             if (Thang == 2)
@@ -32,8 +31,8 @@ namespace Ex01
                 Console.WriteLine("\nThang {0} nam {1} co 31 ngay", Thang, Nam);
             else
                 Console.WriteLine("\nThang {0} nam {1} co 30 ngay", Thang, Nam);
-            Console.WriteLine("\nNhan [Enter] de thoat...");
-            Console.ReadLine();
+            
+            Console.ReadKey();
         }
     }
 }

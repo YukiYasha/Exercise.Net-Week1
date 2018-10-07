@@ -22,7 +22,7 @@ namespace Ex02
             DateTime date = new DateTime(Year, Month, Day);
 
             Console.WriteLine(date.DayOfWeek);
-
+            
             Console.ReadKey();
         }
     }

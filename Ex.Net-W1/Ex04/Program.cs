@@ -22,6 +22,8 @@ namespace Ex04
                 sw.Close();
             }
             //===================================================
+            //Sử dụng 1 trong 2 đoạn code đều được
+
             //FileInfo fi = new FileInfo(filename);
             //StreamWriter sw = fi.CreateText();
             //for (int i = 0; i < arr.Length; i++)
@@ -47,6 +49,9 @@ namespace Ex04
 
                 sr.Close();                
             }
+
+            //===================================================
+            //Sử dụng 1 trong 2 đoạn code đều được
 
             //StreamReader sr = File.OpenText(filename);
             //string line = null;

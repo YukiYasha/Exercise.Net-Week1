@@ -10,7 +10,7 @@ namespace Ex07
     {
         static void Main(string[] args)
         {
-
+            //Empty
         }
     }
 }

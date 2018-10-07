@@ -10,6 +10,7 @@ namespace Ex03
     {
         static void Main(string[] args)
         {
+            //Empty
         }
     }
 }

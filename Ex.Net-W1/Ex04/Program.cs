@@ -21,17 +21,17 @@ namespace Ex04
 
                 sw.Close();
             }
-            //===================================================
-            //Sử dụng 1 trong 2 đoạn code đều được
 
-            //FileInfo fi = new FileInfo(filename);
-            //StreamWriter sw = fi.CreateText();
-            //for (int i = 0; i < arr.Length; i++)
-            //{
-            //    sw.WriteLine(arr[i]);
-            //}
 
-            //sw.Close();
+            //===================================================                     
+            /*FileInfo fi = new FileInfo(filename);
+            StreamWriter sw = fi.CreateText();
+            for (int i = 0; i < arr.Length; i++)
+            {
+                sw.WriteLine(arr[i]);
+            }
+
+            sw.Close();*/
         }
 
         static void DocFile(ref int []arr, string filename)
@@ -50,19 +50,17 @@ namespace Ex04
                 sr.Close();                
             }
 
-            //===================================================
-            //Sử dụng 1 trong 2 đoạn code đều được
+            //===================================================           
+            /*StreamReader sr = File.OpenText(filename);
+            string line = null;
+            int i = 0;
 
-            //StreamReader sr = File.OpenText(filename);
-            //string line = null;
-            //int i = 0;
+            while ((line = sr.ReadLine()) != null)
+            {
+                arr[i++] = int.Parse(line);
+            }
 
-            //while ((line = sr.ReadLine()) != null)
-            //{
-            //    arr[i++] = int.Parse(line);
-            //}
-
-            //sr.Close();
+            sr.Close();*/
         }
 
         static void XuatMang(int []arr)

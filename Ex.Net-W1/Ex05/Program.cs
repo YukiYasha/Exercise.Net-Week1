@@ -19,8 +19,7 @@ namespace Ex05
         }
 
         static void Main(string[] args)
-        {
-            //Chua cai tien voi n rat lon
+        {            
             Console.Write("Nhap so nguyen duong: ");
             long n = long.Parse(Console.ReadLine());
             long Sum = 0;
